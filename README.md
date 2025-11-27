@@ -1,13 +1,8 @@
-# ChillPhim 🍿🎬
+# ChillPhim 
 
 **ChillPhim** là một ứng dụng web xem phim trực tuyến hiện đại, mượt mà và thân thiện với người dùng. Dự án là sự kết hợp hoàn hảo giữa sức mạnh quản lý dữ liệu của **Laravel** và hiệu năng giao diện vượt trội của **Next.js**.
 
-![Project Banner](https://via.placeholder.com/1200x400?text=ChillPhim+Banner+Here)
-*(Bạn có thể thay thế link ảnh trên bằng ảnh chụp màn hình dự án của bạn)*
-
----
-
-## 🌟 Tính Năng Chính (Features)
+Tính Năng Chính (Features)
 
 * **Trang chủ:** Hiển thị phim theo danh mục (Trending, Phim mới, Phim bộ...).
 * **Chi tiết phim:** Xem thông tin, diễn viên, trailer và gợi ý phim liên quan.
@@ -33,6 +28,7 @@ Dự án được xây dựng theo kiến trúc **Monorepo**:
 * **Language:** JavaScript / TypeScript
 * **Styling:** CSS Modules / Tailwind CSS (tùy chỉnh theo dự án)
 * **HTTP Client:** Axios
+* **KIT UI: Shadnc UI
 
 ---
 
